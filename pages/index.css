@@ -250,7 +250,7 @@
   line-height: 20px;
   color: #fff;
   border-radius: 4px;
-  transition: background-color 2s linear 1s;
+  transition: background-color 2s linear;
 }
 
 .form__button:hover {
