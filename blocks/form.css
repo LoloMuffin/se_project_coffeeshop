@@ -82,10 +82,11 @@
 .form__checkbox-active {
   width: 20px;
   height: 20px;
-  background-color: #2f80ed;
+  background-color: #fff;
 }
 
 .form__checkbox:checked + .form__checkbox-active {
+  background-color: #2f80ed;
   background-image: url(../images/check.svg);
   background-repeat: no-repeat;
   background-position: center;
