@@ -13,4 +13,7 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+- Redesign layout with even bolder colors
+- Step-by-step breakdown for recipe alongside video
+- Add a label for phone number in reservation form
+- Add images of items in the menu page
