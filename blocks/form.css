@@ -79,13 +79,13 @@
   appearance: none;
 }
 
-.form__checkbox_active {
+.form__checkbox-active {
   width: 20px;
   height: 20px;
   background-color: #2f80ed;
 }
 
-.form__checkbox:checked + .form__checkbox_active {
+.form__checkbox:checked + .form__checkbox-active {
   background-image: url(../images/check.svg);
   background-repeat: no-repeat;
   background-position: center;
