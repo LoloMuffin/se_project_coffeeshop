@@ -17,3 +17,7 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - Step-by-step breakdown for recipe alongside video
 - Add a label for phone number in reservation form
 - Add images of items in the menu page
+
+## Project Deployment
+
+https://lolomuffin.github.io/se_project_coffeeshop/
